@@ -1,0 +1,11 @@
+{
+    "pizzaJson":[
+        {"id":1, "name":"Mussarela", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza.png?alt=media&token=35786f47-5922-49fb-83d5-32cac15d339f", "price":20.19, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":2, "name":"Calabresa", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza2.png?alt=media&token=12b4c548-b094-45e7-8754-23aee8329e16", "price":18.00, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":3, "name":"Quatro Queijos", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza3.png?alt=media&token=c705b299-87b4-4ba5-abb4-07fb108c3b0a", "price":17.45, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":4, "name":"Americana", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza4.png?alt=media&token=818642e1-37da-4c7b-b37f-f6b7f5cd2640", "price":19.77, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":5, "name":"Sorvete", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza5.png?alt=media&token=c6d01a3b-4676-47ab-bc1a-cfc68339ee08", "price":21.43, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":6, "name":"Moda da Casa", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza6.png?alt=media&token=39ce1b70-3f8e-4120-8c9a-af97d6a5e8fc", "price":18.55, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"},
+        {"id":7, "name":"Chocolate", "img":"https://firebasestorage.googleapis.com/v0/b/webpizzaria-d7c65.appspot.com/o/pizza7.png?alt=media&token=590626d8-2dd1-4c5a-8105-2762237284b4", "price":22.36, "sizes":["320g", "530g", "860g"], "description":"Descrição da pizza em mais de uma linha muito legal bem interessante"}
+    ]
+}
